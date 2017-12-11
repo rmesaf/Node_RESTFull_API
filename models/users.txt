@@ -1,0 +1,9 @@
+{
+"name": "Pepito",
+ "lastname": "Perez",
+ "email": "prueba@prueba.com",
+ "school": "Colegio Prueba",
+ "phone": "3124567897",
+ "birthday": "11/12/1990",
+ "token": "Prueba1234"
+}
